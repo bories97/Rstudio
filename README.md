@@ -1,2 +1,0 @@
-# Rstudio
-R전용 
